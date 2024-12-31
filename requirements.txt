@@ -1,0 +1,7 @@
+praw
+pandas
+matplotlib
+nltk
+python-dotenv
+gradio
+
